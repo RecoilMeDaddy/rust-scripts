@@ -3,7 +3,7 @@
 
 Welcome to the #1 source for professional-grade **Rust scripts**. Our advanced scripting solution is designed for players who want to dominate the competition with precision, safety, and reliability. Whether you are looking for a **Rust recoil script** or a complete combat enhancement, we have you covered.
 
-<p align="center">
+<p align="centered">
   <a href="https://recoilmedaddy.com/RustNoRecoil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Official%20Website-Visit%20Now-red?style=for-the-badge&logo=rust&logoColor=white" alt="Website">
   </a>
