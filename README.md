@@ -61,5 +61,5 @@ Stop losing your kits to better players. Take control of your spray and become a
 ### 👉 [DOWNLOAD RUST SCRIPTS NOW](https://recoilmedaddy.com/RustNoRecoil)
 
 ---
-**Maintained by RecoilMeDaddy** 
+**Maintained by RecoilMeDaddy**  
 *Disclaimer: This project is for educational/informational purposes. We do not condone breaking any game's TOS.*
