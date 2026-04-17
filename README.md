@@ -3,7 +3,7 @@
 
 Welcome to the #1 source for professional-grade **Rust scripts**. Our advanced scripting solution is designed for players who want to dominate the competition with precision, safety, and reliability. Whether you are looking for a **Rust recoil script** or a complete combat enhancement, we have you covered.
 
-<p align="center">
+<p align="left">
   <a href="https://recoilmedaddy.com/RustNoRecoil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Official%20Website-Visit%20Now-red?style=for-the-badge&logo=rust&logoColor=white" alt="Website">
   </a>
@@ -61,4 +61,5 @@ Stop losing your kits to better players. Take control of your spray and become a
 ### 👉 [DOWNLOAD RUST SCRIPTS NOW](https://recoilmedaddy.com/RustNoRecoil)
 
 ---
-**Maintained by RecoilMeDaddy** *Disclaimer: This project is for educational/informational purposes. We do not condone breaking any game's TOS.*
+**Maintained by RecoilMeDaddy** 
+*Disclaimer: This project is for educational/informational purposes. We do not condone breaking any game's TOS.*
