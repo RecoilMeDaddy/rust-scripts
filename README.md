@@ -36,7 +36,6 @@ In the world of Rust scripting, security and performance are everything. Our sof
     ⚠️ Important Note: Our Rust scripts are constantly updated to match the latest game patches. You never have to worry about outdated recoil patterns again.
 
 📸 Media & Performance
-(Optional: Insert a GIF or Image of a AK spray here)
 ![Rust Recoil Script Preview](https://via.placeholder.com/800x400?text=Insert+Beaming+GIF+Here)
 
 ❓ Frequently Asked Questions (FAQ)
