@@ -1,4 +1,4 @@
-# rust-scripts
+# Best Rust Scripts for 2026 🎯
 🎯 The Ultimate Rust Scripts 2026 | No-Recoil & Rapid Fire 🚀
 
 Welcome to the #1 source for professional-grade Rust scripts. Our advanced scripting solution is designed for players who want to dominate the competition with precision, safety, and reliability. Whether you are looking for a Rust recoil script or a complete combat enhancement, we have you covered.
