@@ -1,8 +1,3 @@
----
-layout: default
-title: Rust Scripts 2026 | No-Recoil & Rapid Fire
----
-
 # 🎯 The Ultimate Rust Scripts 2026 🚀
 ### Professional No-Recoil & Combat Enhancement
 
